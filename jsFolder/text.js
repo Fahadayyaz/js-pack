@@ -38,6 +38,6 @@
 // console.log(secondCharacter);
 
 // Step 10: Assign "Test" value to the secondCharacter
-let secondCharacter;
-secondCharacter = "Test";
-console.log(secondCharacter);
+// let secondCharacter;
+// secondCharacter = "Test";
+// console.log(secondCharacter);
