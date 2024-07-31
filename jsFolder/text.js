@@ -10,8 +10,11 @@
 // let character;
 
 // Step 3
-let character = "Hello";
-console.log(character);
+// let character = "Hello";
 
 // Step 4
-// let character = "Hello";
+// let character = 'Hello';
+
+// Step 5
+let character = "Hello";
+console.log(character);
