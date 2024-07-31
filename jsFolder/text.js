@@ -11,3 +11,7 @@
 
 // Step 3
 let character = "Hello";
+console.log(character);
+
+// Step 4
+// let character = "Hello";
