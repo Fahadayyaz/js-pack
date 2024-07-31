@@ -33,4 +33,6 @@
 // Step 8: write variable using camelCase technique
 // let secondCharacter;
 
-// Step 9:
+// Step 9: due to no value in the variable this will show undefined
+let secondCharacter;
+console.log(secondCharacter);
