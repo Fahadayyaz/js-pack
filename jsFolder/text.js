@@ -16,5 +16,16 @@
 // let character = 'Hello';
 
 // Step 5
+// let character = "Hello";
+// console.log(character);
+
+// Step 6
+// let character = "Hello";
+// character = "World";
+// console.log(character);
+
+// Step 7
 let character = "Hello";
+console.log(character);
+character = "World";
 console.log(character);
