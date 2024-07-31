@@ -34,5 +34,10 @@
 // let secondCharacter;
 
 // Step 9: due to no value in the variable this will show undefined
+// let secondCharacter;
+// console.log(secondCharacter);
+
+// Step 10: Assign "Test" value to the secondCharacter
 let secondCharacter;
+secondCharacter = "Test";
 console.log(secondCharacter);
