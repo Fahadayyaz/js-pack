@@ -57,10 +57,10 @@
 // alert("This is Alert");
 // let names = prompt("What is your name? ", "Guest");
 // console.log(names);
-let permission = confirm("Are you older than 18?");
-console.log(permission);
-if (permission) {
-  console.log("Welcome to the club");
-} else {
-  console.log("You are not allowed in the club");
-}
+// let permission = confirm("Are you older than 18?");
+// console.log(permission);
+// if (permission) {
+//   console.log("Welcome to the club");
+// } else {
+//   console.log("You are not allowed in the club");
+// }
