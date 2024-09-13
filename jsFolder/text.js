@@ -41,3 +41,26 @@
 // let secondCharacter;
 // secondCharacter = "Test";
 // console.log(secondCharacter);
+
+// let names = ["4", "5", "6"];
+// console.log(names);
+// names = names.sort();
+// console.log(names);
+// names.push("this is pushed");
+// console.log(names);
+// names.pop();
+// console.log(names);
+// names.shift();
+// console.log(names);
+// names.unshift(3);
+// console.log(names);
+// alert("This is Alert");
+// let names = prompt("What is your name? ", "Guest");
+// console.log(names);
+let permission = confirm("Are you older than 18?");
+console.log(permission);
+if (permission) {
+  console.log("Welcome to the club");
+} else {
+  console.log("You are not allowed in the club");
+}
