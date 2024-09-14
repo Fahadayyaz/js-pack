@@ -64,4 +64,4 @@
 // } else {
 //   console.log("You are not allowed in the club");
 // }
-console.log("hi");
+// console.log("hi");
